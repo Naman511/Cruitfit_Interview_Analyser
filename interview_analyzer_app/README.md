@@ -1,4 +1,4 @@
-# Interview Audio Analyzer (Streamlit)
+# Cruitfit Interview Analyzer 
 
 Upload an interview recording and get automated transcription, Q&A extraction,
 multi-LLM answer scoring, AI-generated-text risk signals, and an overall
